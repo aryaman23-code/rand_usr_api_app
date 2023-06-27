@@ -1,6 +1,6 @@
 # api_flutter_working
 
-A new Flutter project.
+A new project where i worked on using random user api's which would then generate the profiles of the users on the frontend along with their pcitures all of which is dynamically generated from the api via a request 
 
 ## Getting Started
 
